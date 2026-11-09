@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "me.geyserextensionists"
-version = "1.0.14"
+version = "1.0.14-b1298"
 
 repositories {
     mavenCentral()
